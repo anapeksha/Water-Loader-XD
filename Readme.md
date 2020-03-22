@@ -1,4 +1,4 @@
-# Water Loader
+# Water Loader XD
 Adobe XD templates and source for a loading screen using an animation.
 
 This project shows the UI flow of Web.
